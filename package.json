@@ -20,7 +20,7 @@
   "homepage": "https://github.com/cristian9829/Configurated_WebPack_Express_Node#readme",
   "dependencies": {
     "D": "^1.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
